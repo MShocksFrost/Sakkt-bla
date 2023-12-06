@@ -1,0 +1,13 @@
+.fekete{
+    background-color: black;
+}
+
+.feher{
+    background-color: white;
+}
+
+table{
+    border: 5px double black;
+    height: 800px;
+    width: 800px;
+}
